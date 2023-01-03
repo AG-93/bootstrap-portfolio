@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+: root {
+  --primary: rgb
+}
+
+
+body {
+  margin: 0;
+  padding: 10px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  
+}
+
+header {
+
+}
+
+header h1 {
+  letter-spacing: 10px;
+}
+
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
